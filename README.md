@@ -1,7 +1,18 @@
 ![Header](./AimeeHorwood.jpg)
 
-### Hi there 👋 I'm Aimee 
+<div align="right">
+ <a href="https://www.linkedin.com/in/aimeehorwood/">
+    <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+ <a href="mailto:aimeehorwood@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+ <a href="https://github.com/aimeehorwood/CV" target='_blank'>
+    <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white"/></a>
+ </div>
+
+### Hi there 👋 I'm Aimee 
 
 - I’m an ambitious and proactive junior software engineer and soon-to-be graduate of Makers Academy.
 
@@ -10,6 +21,18 @@
 - I used to work as a political and communications strategist, now I am using my problem-solving, team-work, communication, and strategic thinking skills to build full stack applications in JavaScript and Ruby. How awesome is that?
 
 - I am ready to utilise OOP, TDD, paired programming, and agile methodologies to a role where I can feed my curiosity and write high quality code to build programs that truly matter
+
+
+### What I am working on 
+
+
+- Finishing Makers Academy and completing my final group project
+
+
+
+
+
+
 
 
 ## Tech Skills 
@@ -33,15 +56,3 @@
   
 </div>
 </p>
-
-#### Makers Academy (October 2022 to February 2023)
-
-Full-time software development course focusing on:
-
-- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
-- Agile principles, pair programming, stand-ups, retros, and sprint planning
-- Web frameworks, version control, and CI/CD to create full stack web apps
-
-
-
-
