@@ -1,3 +1,5 @@
+![Header](./AimeeHorwood.jpg)
+
 ### Hi there 👋
 
 <!--
